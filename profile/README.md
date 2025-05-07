@@ -1,10 +1,6 @@
-<br clear="both">
-
-# Hi 👋🏻! We're Just Ware a Software House from Italy
+## Hi 👋🏻! We're Just Ware a Software House from Italy
 
 Visit our Website: [justware.it](https://justware.it)
-
-<br clear="both">
 
 <div align="left">
   <a href="https://www.youtube.com/@JustWareOfficial" target="_blank">
@@ -23,5 +19,3 @@ Visit our Website: [justware.it](https://justware.it)
     <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tiktok logo"  />
   </a>
 </div>
-
-<br clear="both">
