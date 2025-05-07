@@ -1,4 +1,8 @@
+<br clear="both">
+
 <h2 align="left">Hi 👋🏻! We're Just Ware a Software House from Italy</h2>
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/just-ware/just-ware/output/snake.svg" alt="Snake animation" />
 
@@ -19,3 +23,5 @@
     <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tiktok logo"  />
   </a>
 </div>
+
+<br clear="both">
