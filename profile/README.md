@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
   <a href="https://www.tiktok.com/@justware.it" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=ffffff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
 
