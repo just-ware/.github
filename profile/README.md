@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img src="https://github.com/just-ware/.github/blob/output/github-contribution-grid-snake2.svg" alt="Snake animation" />
+<p align="left">Visit our Website: [justware.it](https://justware.it)</p>
 
 <br clear="both">
 
