@@ -10,7 +10,7 @@
 
 ###
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 0.75rem;">
+<div align="left" spacing="10px">
   <a href="https://www.youtube.com/@JustWareOfficial" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
