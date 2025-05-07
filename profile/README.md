@@ -1,10 +1,8 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋🏻! We're Just Ware a Software House from Italy</h2>
+## Hi 👋🏻! We're Just Ware a Software House from Italy</h2>
 
-<br clear="both">
-
-<p align="left">Visit our Website: [justware.it](https://justware.it)</p>
+Visit our Website: [justware.it](https://justware.it)
 
 <br clear="both">
 
