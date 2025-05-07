@@ -1,2 +1,2 @@
 # Hi 👋🏻, We're Just Ware
- A Software House from Italy
+A Software House from Italy
