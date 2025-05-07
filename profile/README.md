@@ -1,6 +1,6 @@
 <br clear="both">
 
-## Hi 👋🏻! We're Just Ware a Software House from Italy</h2>
+# Hi 👋🏻! We're Just Ware a Software House from Italy
 
 Visit our Website: [justware.it](https://justware.it)
 
