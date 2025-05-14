@@ -1,6 +1,8 @@
-## Hi 👋🏻! We're Just Ware a Software House from Italy
+<img src="https://justware.it/Logo%20Scritta%20Just%20Ware.png" alt="Just Ware's Logo" />
 
-Visit our Website: [justware.it](https://justware.it)
+<h2 align="left">Hi 👋🏻! We're Just Ware a Software House from Italy</h2>
+
+<p>Visit our Website: [justware.it](https://justware.it)</p>
 
 <div align="left">
   <a href="https://www.youtube.com/@JustWareOfficial" target="_blank">
