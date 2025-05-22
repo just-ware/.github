@@ -2,7 +2,7 @@
 
 <h2 align="left">Hi 👋🏻! We're Just Ware a Software House from Italy</h2>
 
-<p>Visit our Website: [justware.it](https://justware.it)</p>
+Visit our Website: [justware.it](https://justware.it)
 
 <div align="left">
   <a href="https://www.youtube.com/@JustWareOfficial" target="_blank">
